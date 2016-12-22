@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTimerCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    
+    <string name="show_time">计数：</string>
+    <string name="start">开始</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+
+</resources>
